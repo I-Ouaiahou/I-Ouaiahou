@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Ismail Ouaihaou, and I am currently studying web development. I really enjoy learning HTML CSS & Javascript. I also enjoy blogging about the city I currently live in because it's pretty beautiful. The city I am currently living in is called
-Münster and my website is called https://www.munsteraners.de 
+My name is Ismail Ouaihaou, and I am now pursuing a degree in web development. I adore learning HTML, CSS, and Javascript.
+I also enjoy posting about my current city because it is rather lovely. My present home city is Münster, and my website address is https://www.munsteraners.de. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Ouaihaou)](https://github.com/anuraghazra/github-readme-stats)
+atom_symbol React
+iphone React Native
+computer HTML, CSS, JS
